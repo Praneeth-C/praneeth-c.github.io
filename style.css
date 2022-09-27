@@ -1,5 +1,4 @@
-<style>
-      .column {
+.column {
         float: left;
         width: 50%;
         padding: 0px;
@@ -17,4 +16,3 @@
       body {
             background-color: linen;
       }
- </style>
