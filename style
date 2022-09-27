@@ -14,4 +14,7 @@
       table, th, td {
          border: 1px solid;
       }
-    </style>
+      body {
+            background-color: linen;
+      }
+ </style>
